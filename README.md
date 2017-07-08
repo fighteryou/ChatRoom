@@ -15,4 +15,4 @@ Multi-clients and server chatroom, socket programming, multi-threads programming
 4.	Must still be able to receive messages / actions while typing a message.<br>
 5.	Clients must be able to disconnect without disrupting the server.
 ## Launch
-Run ServerGUI then ClientGUI.
+Run ServerGUI.java then ClientGUI.java.
